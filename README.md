@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello there, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!--
-**brunopuzoni/brunopuzoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently working as a Software Engineer at BR Media Group. 🚀
 
-Here are some ideas to get you started:
+#### 🧰 My current tools 
+-  📱 Mobile with React Native
+-  🌎 Web with React
+-  📡 API with Node.js
+-  🛠️ Typescript
+-  📖 Learning Vue.js, Django's REST Framework and Ruby on Rails
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 💬 Find me elsewhere
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-franco-puzoni/)](https://www.linkedin.com/in/bruno-franco-puzoni/) 
+[![Gmail Badge](https://img.shields.io/badge/-bpuzoni@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bpuzoni@gmail.com)](mailto:bpuzoni@gmail.com)
