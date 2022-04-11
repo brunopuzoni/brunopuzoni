@@ -7,7 +7,7 @@ I’m currently working as a Software Engineer at BR Media Group. 🚀
 -  🌎 Web with React
 -  📡 API with Node.js
 -  🛠️ Typescript
--  📖 Learning Vue.js, Django's REST Framework and Ruby on Rails
+-  📖 Learning Vue.js, Django REST Framework and Ruby on Rails
 
 #### 💬 Find me elsewhere
 
