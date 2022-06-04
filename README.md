@@ -1,13 +1,13 @@
-### Hello there, I'm Bruno <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hello there, I'm Bruno 🥸
 
 I’m currently working as a Software Engineer at BR Media Group. 🚀
 
 #### 🧰 My current tools 
 -  📱 Mobile with React Native
--  🌎 Web with React
+-  🌎 Web with React and NextJS
 -  📡 API with Node.js
 -  🛠️ Typescript
--  📖 Learning Vue.js, Django REST Framework and Ruby on Rails
+-  📖 Interested in learning more about Remix and VueJS with Composition API
 
 #### 💬 Find me elsewhere
 
