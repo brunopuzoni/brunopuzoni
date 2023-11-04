@@ -7,7 +7,7 @@ I’m currently working as a Software Engineer at BR Media Group. 🚀
 -  🌎 Web with React and NextJS
 -  📡 API with Node.js
 -  🛠️ Typescript
--  📖 Interested in learning more about Remix and VueJS with Composition API
+-  📖 Interested in learning more about Remix and Rust
 
 #### 💬 Find me elsewhere
 
